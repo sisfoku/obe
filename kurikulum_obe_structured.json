@@ -1,0 +1,3044 @@
+[
+  {
+    "program_studi": "Sistem Informasi",
+    "profil_lulusan": "lulusan mampu melakukan analisis data untuk pengambilan keputusan",
+    "cpl_list": [
+      {
+        "kode": "cpl1",
+        "deskripsi": "mampu menerapkan konsep dasar sistem informasi dalam berbagai konteks",
+        "cpmk_list": [
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          }
+        ]
+      },
+      {
+        "kode": "cpl5",
+        "deskripsi": "mampu bekerja dalam tim dan berkomunikasi secara efektif",
+        "cpmk_list": [
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          }
+        ]
+      },
+      {
+        "kode": "cpl3",
+        "deskripsi": "mampu mengembangkan sistem informasi berbasis web dan mobile",
+        "cpmk_list": [
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          }
+        ]
+      },
+      {
+        "kode": "cpl4",
+        "deskripsi": "mampu menerapkan prinsip keamanan informasi dalam pengembangan sistem",
+        "cpmk_list": [
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          }
+        ]
+      },
+      {
+        "kode": "cpl2",
+        "deskripsi": "mampu merancang solusi sistem informasi sesuai kebutuhan pengguna",
+        "cpmk_list": [
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program_studi": "Sistem Informasi",
+    "profil_lulusan": "lulusan mampu mengembangkan aplikasi mobile dengan teknologi terkini",
+    "cpl_list": [
+      {
+        "kode": "cpl2",
+        "deskripsi": "mampu merancang solusi sistem informasi sesuai kebutuhan pengguna",
+        "cpmk_list": [
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          }
+        ]
+      },
+      {
+        "kode": "cpl3",
+        "deskripsi": "mampu mengembangkan sistem informasi berbasis web dan mobile",
+        "cpmk_list": [
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          }
+        ]
+      },
+      {
+        "kode": "cpl4",
+        "deskripsi": "mampu menerapkan prinsip keamanan informasi dalam pengembangan sistem",
+        "cpmk_list": [
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          }
+        ]
+      },
+      {
+        "kode": "cpl1",
+        "deskripsi": "mampu menerapkan konsep dasar sistem informasi dalam berbagai konteks",
+        "cpmk_list": [
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          }
+        ]
+      },
+      {
+        "kode": "cpl5",
+        "deskripsi": "mampu bekerja dalam tim dan berkomunikasi secara efektif",
+        "cpmk_list": [
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program_studi": "Sistem Informasi",
+    "profil_lulusan": "lulusan mampu merancang sistem informasi berbasis web",
+    "cpl_list": [
+      {
+        "kode": "cpl2",
+        "deskripsi": "mampu merancang solusi sistem informasi sesuai kebutuhan pengguna",
+        "cpmk_list": [
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          }
+        ]
+      },
+      {
+        "kode": "cpl4",
+        "deskripsi": "mampu menerapkan prinsip keamanan informasi dalam pengembangan sistem",
+        "cpmk_list": [
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          }
+        ]
+      },
+      {
+        "kode": "cpl5",
+        "deskripsi": "mampu bekerja dalam tim dan berkomunikasi secara efektif",
+        "cpmk_list": [
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          }
+        ]
+      },
+      {
+        "kode": "cpl3",
+        "deskripsi": "mampu mengembangkan sistem informasi berbasis web dan mobile",
+        "cpmk_list": [
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          }
+        ]
+      },
+      {
+        "kode": "cpl1",
+        "deskripsi": "mampu menerapkan konsep dasar sistem informasi dalam berbagai konteks",
+        "cpmk_list": [
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program_studi": "Sistem Informasi",
+    "profil_lulusan": "lulusan memahami dan menerapkan prinsip etika profesi ti",
+    "cpl_list": [
+      {
+        "kode": "cpl3",
+        "deskripsi": "mampu mengembangkan sistem informasi berbasis web dan mobile",
+        "cpmk_list": [
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          }
+        ]
+      },
+      {
+        "kode": "cpl1",
+        "deskripsi": "mampu menerapkan konsep dasar sistem informasi dalam berbagai konteks",
+        "cpmk_list": [
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          }
+        ]
+      },
+      {
+        "kode": "cpl5",
+        "deskripsi": "mampu bekerja dalam tim dan berkomunikasi secara efektif",
+        "cpmk_list": [
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          }
+        ]
+      },
+      {
+        "kode": "cpl4",
+        "deskripsi": "mampu menerapkan prinsip keamanan informasi dalam pengembangan sistem",
+        "cpmk_list": [
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          }
+        ]
+      },
+      {
+        "kode": "cpl2",
+        "deskripsi": "mampu merancang solusi sistem informasi sesuai kebutuhan pengguna",
+        "cpmk_list": [
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program_studi": "Sistem Informasi",
+    "profil_lulusan": "lulusan menguasai konsep jaringan komputer dan keamanannya",
+    "cpl_list": [
+      {
+        "kode": "cpl1",
+        "deskripsi": "mampu menerapkan konsep dasar sistem informasi dalam berbagai konteks",
+        "cpmk_list": [
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          }
+        ]
+      },
+      {
+        "kode": "cpl5",
+        "deskripsi": "mampu bekerja dalam tim dan berkomunikasi secara efektif",
+        "cpmk_list": [
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          }
+        ]
+      },
+      {
+        "kode": "cpl3",
+        "deskripsi": "mampu mengembangkan sistem informasi berbasis web dan mobile",
+        "cpmk_list": [
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          }
+        ]
+      },
+      {
+        "kode": "cpl2",
+        "deskripsi": "mampu merancang solusi sistem informasi sesuai kebutuhan pengguna",
+        "cpmk_list": [
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          }
+        ]
+      },
+      {
+        "kode": "cpl4",
+        "deskripsi": "mampu menerapkan prinsip keamanan informasi dalam pengembangan sistem",
+        "cpmk_list": [
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program_studi": "Sistem Komputer",
+    "profil_lulusan": "lulusan mampu melakukan analisis data untuk pengambilan keputusan",
+    "cpl_list": [
+      {
+        "kode": "cpl4",
+        "deskripsi": "mampu menerapkan prinsip keamanan informasi dalam pengembangan sistem",
+        "cpmk_list": [
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          }
+        ]
+      },
+      {
+        "kode": "cpl3",
+        "deskripsi": "mampu mengembangkan sistem informasi berbasis web dan mobile",
+        "cpmk_list": [
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          }
+        ]
+      },
+      {
+        "kode": "cpl5",
+        "deskripsi": "mampu bekerja dalam tim dan berkomunikasi secara efektif",
+        "cpmk_list": [
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          }
+        ]
+      },
+      {
+        "kode": "cpl1",
+        "deskripsi": "mampu menerapkan konsep dasar sistem informasi dalam berbagai konteks",
+        "cpmk_list": [
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          }
+        ]
+      },
+      {
+        "kode": "cpl2",
+        "deskripsi": "mampu merancang solusi sistem informasi sesuai kebutuhan pengguna",
+        "cpmk_list": [
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program_studi": "Sistem Komputer",
+    "profil_lulusan": "lulusan mampu mengembangkan aplikasi mobile dengan teknologi terkini",
+    "cpl_list": [
+      {
+        "kode": "cpl3",
+        "deskripsi": "mampu mengembangkan sistem informasi berbasis web dan mobile",
+        "cpmk_list": [
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          }
+        ]
+      },
+      {
+        "kode": "cpl1",
+        "deskripsi": "mampu menerapkan konsep dasar sistem informasi dalam berbagai konteks",
+        "cpmk_list": [
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          }
+        ]
+      },
+      {
+        "kode": "cpl2",
+        "deskripsi": "mampu merancang solusi sistem informasi sesuai kebutuhan pengguna",
+        "cpmk_list": [
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          }
+        ]
+      },
+      {
+        "kode": "cpl5",
+        "deskripsi": "mampu bekerja dalam tim dan berkomunikasi secara efektif",
+        "cpmk_list": [
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          }
+        ]
+      },
+      {
+        "kode": "cpl4",
+        "deskripsi": "mampu menerapkan prinsip keamanan informasi dalam pengembangan sistem",
+        "cpmk_list": [
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program_studi": "Sistem Komputer",
+    "profil_lulusan": "lulusan mampu merancang sistem informasi berbasis web",
+    "cpl_list": [
+      {
+        "kode": "cpl4",
+        "deskripsi": "mampu menerapkan prinsip keamanan informasi dalam pengembangan sistem",
+        "cpmk_list": [
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          }
+        ]
+      },
+      {
+        "kode": "cpl1",
+        "deskripsi": "mampu menerapkan konsep dasar sistem informasi dalam berbagai konteks",
+        "cpmk_list": [
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          }
+        ]
+      },
+      {
+        "kode": "cpl2",
+        "deskripsi": "mampu merancang solusi sistem informasi sesuai kebutuhan pengguna",
+        "cpmk_list": [
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          }
+        ]
+      },
+      {
+        "kode": "cpl3",
+        "deskripsi": "mampu mengembangkan sistem informasi berbasis web dan mobile",
+        "cpmk_list": [
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          }
+        ]
+      },
+      {
+        "kode": "cpl5",
+        "deskripsi": "mampu bekerja dalam tim dan berkomunikasi secara efektif",
+        "cpmk_list": [
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program_studi": "Sistem Komputer",
+    "profil_lulusan": "lulusan memahami dan menerapkan prinsip etika profesi ti",
+    "cpl_list": [
+      {
+        "kode": "cpl2",
+        "deskripsi": "mampu merancang solusi sistem informasi sesuai kebutuhan pengguna",
+        "cpmk_list": [
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          }
+        ]
+      },
+      {
+        "kode": "cpl4",
+        "deskripsi": "mampu menerapkan prinsip keamanan informasi dalam pengembangan sistem",
+        "cpmk_list": [
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          }
+        ]
+      },
+      {
+        "kode": "cpl3",
+        "deskripsi": "mampu mengembangkan sistem informasi berbasis web dan mobile",
+        "cpmk_list": [
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          }
+        ]
+      },
+      {
+        "kode": "cpl5",
+        "deskripsi": "mampu bekerja dalam tim dan berkomunikasi secara efektif",
+        "cpmk_list": [
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          }
+        ]
+      },
+      {
+        "kode": "cpl1",
+        "deskripsi": "mampu menerapkan konsep dasar sistem informasi dalam berbagai konteks",
+        "cpmk_list": [
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program_studi": "Sistem Komputer",
+    "profil_lulusan": "lulusan menguasai konsep jaringan komputer dan keamanannya",
+    "cpl_list": [
+      {
+        "kode": "cpl4",
+        "deskripsi": "mampu menerapkan prinsip keamanan informasi dalam pengembangan sistem",
+        "cpmk_list": [
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          }
+        ]
+      },
+      {
+        "kode": "cpl2",
+        "deskripsi": "mampu merancang solusi sistem informasi sesuai kebutuhan pengguna",
+        "cpmk_list": [
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          }
+        ]
+      },
+      {
+        "kode": "cpl5",
+        "deskripsi": "mampu bekerja dalam tim dan berkomunikasi secara efektif",
+        "cpmk_list": [
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk07",
+            "nama_mk": "basis data"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          }
+        ]
+      },
+      {
+        "kode": "cpl3",
+        "deskripsi": "mampu mengembangkan sistem informasi berbasis web dan mobile",
+        "cpmk_list": [
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk04",
+            "nama_mk": "jaringan komputer"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk2.1",
+            "deskripsi": "mahasiswa mampu menganalisis kebutuhan pengguna",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk3.2",
+            "deskripsi": "mahasiswa mampu mengimplementasikan sistem berbasis web",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          }
+        ]
+      },
+      {
+        "kode": "cpl1",
+        "deskripsi": "mampu menerapkan konsep dasar sistem informasi dalam berbagai konteks",
+        "cpmk_list": [
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk05",
+            "nama_mk": "etika profesi dan komunikasi ti"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk06",
+            "nama_mk": "pengembangan aplikasi mobile"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk02",
+            "nama_mk": "analisis dan perancangan sistem informasi"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk4.1",
+            "deskripsi": "mahasiswa mampu menerapkan prinsip keamanan informasi",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          },
+          {
+            "kode": "cpmk1.1",
+            "deskripsi": "mahasiswa mampu menjelaskan konsep dasar sistem informasi",
+            "kode_mk": "mk01",
+            "nama_mk": "pemrograman web"
+          },
+          {
+            "kode": "cpmk3.1",
+            "deskripsi": "mahasiswa mampu membuat rancangan sistem informasi",
+            "kode_mk": "mk08",
+            "nama_mk": "business intelligence"
+          },
+          {
+            "kode": "cpmk5.1",
+            "deskripsi": "mahasiswa mampu bekerja sama dalam tim proyek pengembangan ti",
+            "kode_mk": "mk03",
+            "nama_mk": "keamanan informasi"
+          }
+        ]
+      }
+    ]
+  }
+]
